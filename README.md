@@ -9,6 +9,7 @@
 
 | No. | Discussion | Date |
 | :-: | :---------: | :---: |
+|01|[타입스크립트 알이보기](https://github.com/MT9-Study/effective-typescript/discussions/1) | ~ 23.06.08 |
 |02|[타입스크립트의 타입 시스템]() | 23.06.01 |
 
 ## ⚡️ Members

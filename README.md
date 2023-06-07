@@ -1,9 +1,5 @@
-# effective-typescript
+# Effective Typescript
 이펙티브 타입스크립트를 공부하는 레퍼지토리입니다.
-
-
-
-<h1 align="center">  Effective Typescript </h1>
 
 ## 📚 Contents
 

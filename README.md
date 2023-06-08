@@ -14,7 +14,7 @@
 * 조아라(Backend) [@arara90](https://github.com/arara90)
 * 김소현(Frontend) [@sohyeon-zoe-kim](https://github.com/sohyeon-zoe-kim)
 * 김효은(Frontend) [@FEhyoeun](https://github.com/FEhyoeun)
-* 이필웅(Frontend) [@]()
+* 이필웅(Frontend) [@Leepilung](https://github.com/Leepilung)
 
 ## 📝 Study Rules
 * 분량을 나누고 각자 맡을 파트를 정해서 공부 및 발표 준비해오기

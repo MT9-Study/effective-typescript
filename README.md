@@ -3,8 +3,8 @@
 
 ## 📚 Contents
 
-| No. | Discussion | Date |
-| :-: | :---------: | :---: |
+| No. | Discussion |
+| :-: | :---------: |
 |01|[타입스크립트 알아보기](https://github.com/MT9-Study/effective-typescript/discussions/1)
 |02|[타입스크립트의 타입 시스템](https://github.com/MT9-Study/effective-typescript/discussions/2)
 |03|[타입 추론](https://github.com/MT9-Study/effective-typescript/discussions/3)

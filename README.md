@@ -10,6 +10,7 @@
 |03|[타입 추론](https://github.com/MT9-Study/effective-typescript/discussions/3)
 |04|[타입 설계](https://github.com/MT9-Study/effective-typescript/discussions/4)
 |05|[any 다루기](https://github.com/MT9-Study/effective-typescript/discussions/5)
+|06|[타입 선언과 @types](https://github.com/MT9-Study/effective-typescript/discussions/6)
 
 ## ⚡️ Members
 * 김도경(Frontend) [@dkkim0122](https://github.com/dkkim0122)

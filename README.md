@@ -11,7 +11,7 @@
 |04|[타입 설계](https://github.com/MT9-Study/effective-typescript/discussions/4) | 23.07.20 ~ 23.08.08 |
 |05|[any 다루기](https://github.com/MT9-Study/effective-typescript/discussions/5) | 23.08.17 ~ 23.08.24 |
 |06|[타입 선언과 @types](https://github.com/MT9-Study/effective-typescript/discussions/6) | 23.08.24 ~ 23.09.05 |
-|07|[코드를 작성하고 실행하기](https://github.com/MT9-Study/effective-typescript/discussions/7) | 23.00.05 ~ |
+|07|[코드를 작성하고 실행하기](https://github.com/MT9-Study/effective-typescript/discussions/7) | 23.09.05 ~ |
 
 ## ⚡️ Members
 * 김도경(Frontend) [@dkkim0122](https://github.com/dkkim0122)
